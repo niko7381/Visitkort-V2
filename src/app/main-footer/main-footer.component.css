@@ -1,0 +1,12 @@
+.mat-toolbar.mat-primary {
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+}
+
+.sidenav-container {
+  height: 100%;
+  position: fixed;
+  bottom: 0px;
+  top: 100%;  
+}
